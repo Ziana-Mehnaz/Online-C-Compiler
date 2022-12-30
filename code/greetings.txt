@@ -1,0 +1,12 @@
+#include <stdio.h>
+int main()
+{
+    int a,b,i,j,n,sum;
+    scanf("%d",&n);
+        mul=1;
+        scanf("%d %d",&a,&b);
+        mul=a*b;
+        printf("Mul= %d",mul);
+    return 0;
+
+}
